@@ -1,3 +1,4 @@
-Rohit sharma    18  Computers
-Virat kohli   19  Electrical
-MS    Dhoni 20  Physics
+Name          Roll num    branch
+Rohit sharma    18       Computers
+Virat kohli     19        Electrical
+MS  Dhoni       20        Physics
