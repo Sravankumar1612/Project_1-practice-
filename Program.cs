@@ -5,7 +5,7 @@ class Program
 {
     static void Main()
     {
-        string filePath = "E:\\Dotnet\\Test File Input For student.txt";
+        string filePath = "E:\\Dotnet\\student file.txt";
 
         // Check if the file exists
         if (File.Exists(filePath))
